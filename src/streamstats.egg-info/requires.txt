@@ -1,7 +1,0 @@
-typer
-pydantic
-
-[dev]
-pytest
-ruff
-mypy
